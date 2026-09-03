@@ -25,7 +25,7 @@ Este projeto apresenta o protótipo de um portfólio profissional desenvolvido c
 * Figma — criação e prototipação da interface;
 * Inteligência Artificial — utilizada como auxílio na organização e desenvolvimento das ideias, quando aplicável;
 * GitHub — armazenamento, versionamento e documentação do projeto.
-* ChatGPT - utilizada para auxiliar em design 
+* ChatGPT - utilizada para auxiliar em design.
 
 ##  Autoria
 
