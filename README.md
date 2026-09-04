@@ -75,10 +75,11 @@ Este projeto apresenta o protótipo de um portfólio profissional desenvolvido c
 <img width="1008" height="668" alt="Captura de tela 2026-09-03 162645" src="https://github.com/user-attachments/assets/7f37b7db-88ec-4c6b-a4ef-2905b0914250" />
 
 ### Tela 2 - Sobre mim
-<img width="1026" height="597" alt="Captura de tela 2026-09-03 163243" src="https://github.com/user-attachments/assets/51aa708d-89bd-4fb7-aca5-128713f10f10" />
+<img width="925" height="579" alt="Captura de tela 2026-09-04 135842" src="https://github.com/user-attachments/assets/c7b7b4da-b64e-4cd3-b8ac-f0bba486e0c4" />
 
 ### Tela 3 - Habiliades
-<img width="995" height="644" alt="Captura de tela 2026-09-03 163344" src="https://github.com/user-attachments/assets/4ccd1fb2-448c-4e1e-bd63-28c520fecc4d" />
+<img width="929" height="620" alt="Captura de tela 2026-09-04 135828" src="https://github.com/user-attachments/assets/6bf314b5-5942-4aa9-a93d-9b79f8326bb9" />
+
 
 
 ##  Ferramentas Utilizadas
