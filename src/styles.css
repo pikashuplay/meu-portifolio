@@ -1,1 +1,27 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Fira+Code:wght@400;500&display=swap');
+:root {
+    --bg-dark: #08070b;
+    --bg-card: #10101a;
+    --border-color: #1a1a2e;
+    --text-primary: #ffffff;
+    --text-secondary: #8f90a6;
+    --acccent-blue: #70a9f8;
+    --accent-purple: #7a52f4;
+    --accent-green: #4ade80;
+
+    --font-sans: 'Inter', sans-serif;
+    --font-mono: 'Fira Code'. monospace;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--bg-dark);
+    color: var(--text-primary);
+    font-family: var(--font-sans);
+    line-height: 1.6;
+}

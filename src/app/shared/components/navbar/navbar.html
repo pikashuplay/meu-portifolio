@@ -1,12 +1,12 @@
-<nav>
-    <span>Alerrandro de matos Ferreira</span>
-    <ul>
-        <li><a routerLink="/sobre">Sobre mim</a></li>
-        <li><a routerLink="/certificacoes">Certificação</a></li>
-        <li><a routerLink="/formacao-academica">Formação academica</a></li>
-        <li><a routerLink="/habilidades">Habilidades</a></li>
-        <li><a routerLink="/objetivo-profissional">Objetivo profissional</a></li>
-        <li><a routerLink="/projetos">Projetos</a></li>
-        <li><a routerLink="/qualificacoes">Qualificações</a></li>
-    </ul>
-</nav>
+<header class="navbar">
+  <div class="logo">
+    <span class="logo-accent">A</span>lerrandro de Matos Ferreira
+  </div>
+  <nav class="nav-links">
+    <a routerLink="/sobre" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">Sobre mim</a>
+    <a routerLink="/certificacoes" routerLinkActive="active">Certificações</a>
+    <a routerLink="/habilidades" routerLinkActive="active">Habilidades</a>
+    <a routerLink="/objetivo-profissional" routerLinkActive="active">Objetivo</a>
+    <a routerLink="/projetos" routerLinkActive="active">Projetos</a>
+  </nav>
+</header>

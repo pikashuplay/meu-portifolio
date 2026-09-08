@@ -1,0 +1,57 @@
+.page-container.align-left {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 3rem 4rem;
+}
+
+.main-title {
+  font-size: 3rem;
+  line-height: 1.1;
+  margin-bottom: 2rem;
+  color: var(--text-primary);
+}
+
+/* Card com Borda e Fundo */
+.card-certificacao {
+  width: 100%;
+  max-width: 420px;
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  padding: 1.5rem 2rem;
+  border-radius: 12px;
+}
+
+.curso-title {
+  color: var(--text-primary);
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+}
+
+.instituicao {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.cta-button {
+  background-color: var(--accent-blue);
+  color: #000;
+  border: none;
+  padding: 0.8rem 1.8rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.cta-button:hover {
+  opacity: 0.9;
+}
+
+.margin-top {
+  margin-top: 2rem;
+}
