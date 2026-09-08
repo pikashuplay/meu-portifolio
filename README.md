@@ -71,15 +71,24 @@ Este projeto apresenta o protótipo de um portfólio profissional desenvolvido c
 
 ##  Telas do Protótipo
 
-### Tela 1 - Inicio Apresentação
-<img width="1008" height="668" alt="Captura de tela 2026-09-03 162645" src="https://github.com/user-attachments/assets/7f37b7db-88ec-4c6b-a4ef-2905b0914250" />
+### Tela 1 - Sobre mim
+<img width="1053" height="704" alt="Captura de tela 2026-09-04 172351" src="https://github.com/user-attachments/assets/cf639e80-4f98-4596-8fd1-4b53f9bc1b84" />
 
-### Tela 2 - Sobre mim
-<img width="925" height="579" alt="Captura de tela 2026-09-04 135842" src="https://github.com/user-attachments/assets/c7b7b4da-b64e-4cd3-b8ac-f0bba486e0c4" />
 
-### Tela 3 - Habiliades
-<img width="929" height="620" alt="Captura de tela 2026-09-04 135828" src="https://github.com/user-attachments/assets/6bf314b5-5942-4aa9-a93d-9b79f8326bb9" />
+### Tela 2 - objetivo profissional 
+<img width="1053" height="704" alt="Captura de tela 2026-09-04 172351" src="https://github.com/user-attachments/assets/2265a87c-1943-4e43-9b05-05442dece6c9" />
 
+
+### Tela 3 - Projetos
+<img width="1041" height="674" alt="Captura de tela 2026-09-04 172331" src="https://github.com/user-attachments/assets/d670150c-9dc3-4113-92d6-01206e075162" />
+
+
+### Tela 4 - Habilidades
+<img width="1043" height="684" alt="Captura de tela 2026-09-04 172323" src="https://github.com/user-attachments/assets/5d3135a7-b6a5-43fe-92a1-601205b1966d" />
+
+
+### Tela 5 - Formação 
+<img width="1097" height="711" alt="Captura de tela 2026-09-08 164255" src="https://github.com/user-attachments/assets/d48174e5-3999-4548-ae62-89171b05bc84" />
 
 
 ##  Ferramentas Utilizadas
